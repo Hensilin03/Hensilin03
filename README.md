@@ -1,6 +1,6 @@
 # Hensilin Rithista S 👋
 
-**B.Tech ECE '25 @ VIT** | Currently at **Emertxe** (Aug '25 - Present) 
+**B.Tech ECE '25 @ VIT** | Currently at **Emertxe** (Aug '25 - May '26) 
 
 I’m an aspiring Embedded Systems Engineer focused on low-level C and microcontroller interfacing. Currently spending most of my time on mastering pointers, memory management, and getting hardware protocols to work.
 
